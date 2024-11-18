@@ -78,6 +78,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [h0tak88r](https://github.com/h0tak88r)
 
 ## Acknowledgments
-- Original  [Content Type Converter](https://github.com/portswigger/content-type-converter) project, [PortSwigger Page](https://portswigger.net/bappstore/db57ecbe2cb7446292a94aa6181c9278)
+- Original  [Content Type Converter](https://github.com/portswigger/content-type-converter) project, 
+- [PortSwigger ](https://portswigger.net/bappstore/db57ecbe2cb7446292a94aa6181c9278)
 - Burp Suite Extension API
 - [khaled Kaream Eldein](https://github.com/xElkomy) for his help and idea
