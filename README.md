@@ -22,7 +22,7 @@ A powerful Burp Suite extension that helps in converting requests between differ
 - Added support for complex JSON arrays
 
 ### Original Project
-This project is based on the original work from the [BurpJDSer](https://github.com/federicodotta/BurpJDSer) project. We've enhanced it with new features and improvements for better request format conversion capabilities.
+This project is based on the original work from the [Content Type Converter](https://github.com/portswigger/content-type-converter), [PortSwigger Page](https://portswigger.net/bappstore/db57ecbe2cb7446292a94aa6181c9278) project. We've enhanced it with new features and improvements for better request format conversion capabilities.
 
 ## Installation
 
@@ -65,14 +65,8 @@ The compiled JAR file will be in `build/libs/content-type-converter-all.jar`
 ## TODO List
 - [ ] Add support for more content types (YAML, SOAP, etc.)
 - [ ] Add configuration interface for custom conversion rules
-- [ ] Implement request/response compression handling
-- [ ] Add support for binary content types
-- [ ] Implement custom header manipulation
-- [ ] Add logging and debugging features
-- [ ] Create comprehensive test suite
-- [ ] Add support for custom encoding schemes
-- [ ] Implement request history tracking
-- [ ] Add batch conversion capabilities
+- [ ] Update url-econded request to json
+- [ ] Update Get request to post json request
 
 ## Contributing
 Contributions are welcome! Please feel free to submit pull requests.
